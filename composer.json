@@ -1,0 +1,13 @@
+{
+    "name": "zhxl/hello-composer-package",
+    "description": "test of composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ZhangXiangLu",
+            "email": "zhangxianglu1984@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
